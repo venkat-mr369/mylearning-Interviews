@@ -1,5 +1,3 @@
----
-
 ### 1. What is a Checkpoint in MySQL?
 
 ### Answer
